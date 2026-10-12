@@ -1,0 +1,7 @@
+server:
+  port: 10000
+  cacheDir: /home/filebrowser/data/tmp
+  sources:
+    - path: /folder
+      config:
+        defaultEnabled: true
